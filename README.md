@@ -1,0 +1,6 @@
+- #sobre mim
+- olá meu nome é vicsant
+- meu email de contato é nicole.vitoria.santos@escola.pr.gov.br
+- estou interessado em aprender novas linguagens de programação
+- eu estou recentemente aprendedo a usar a linguagens de programação JavaScript e Scratch
+- 
